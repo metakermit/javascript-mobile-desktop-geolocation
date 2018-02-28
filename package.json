@@ -1,0 +1,19 @@
+{
+  "name": "javascript-mobile-desktop-geolocation",
+  "version": "0.0.1",
+  "description": "Mobile and Desktop Javascript Library for Geolocation Fallback. Based on geo-location-javascript framework ",
+  "main": "js/geoPosition.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metakermit/javascript-mobile-desktop-geolocation.git"
+  },
+  "author": "J. Esteban Acosta Villafañe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/metakermit/javascript-mobile-desktop-geolocation/issues"
+  },
+  "homepage": "https://github.com/metakermit/javascript-mobile-desktop-geolocation#readme"
+}
